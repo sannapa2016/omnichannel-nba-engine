@@ -2,7 +2,7 @@
 
 ### *AI-Driven Orchestration for HCP Engagement*
 
-The `omnichannel-nba-engine` is a predictive analytics framework designed to optimize Health Care Professional (HCP) engagement across digital and personal channels. As seen in the repository structure (**{0138679D-8054-489E-9CA9-C33B6A89DE0E}.png**), this project integrates data generation, model training, and a deployment-ready app to tell a complete story of modern "Commercial Excellence."
+The `omnichannel-nba-engine` is a predictive analytics framework designed to optimize Health Care Professional (HCP) engagement across digital and personal channels. As seen in the repository structure, this project integrates data generation, model training, and a deployment-ready app to tell a complete story of modern "Commercial Excellence."
 
 ## The Strategic Problem: Content Saturation
 
@@ -17,7 +17,7 @@ Physicians are overwhelmed with generic marketing. This engine solves the "relev
 
 ## Project Architecture
 
-Referencing the file structure in **{0138679D-8054-489E-9CA9-C33B6A89DE0E}.png**:
+Referencing the file structure in:
 
 * **`train_nba_model.py`**: The core ML pipeline. Processes HCP interactions to determine the highest-value engagement channel.
 * **`generate_hcp_data.py`**: Simulates realistic omnichannel data, including CRM logs, email opens, and sample requests.
